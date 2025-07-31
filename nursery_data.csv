@@ -1,0 +1,51 @@
+Height (cm),Stock,Plant ID,Type,Status
+62,twennty,3299,Tree,Needs Water
+152,93,5403,Flower,Needs Water
+148,85,4348,Herb,Needs Water
+69,78,3652,Shrub,Dead
+tall,18,5612,Herb,Needs Water
+130,38,1753,,Thriving
+149,18,,Herb,Thriving
+112,,,Flower,
+51,140,,Grass,
+247,49,2475,Flower,Wilted
+189,95,7900,Tree,Dead
+220,104,8283,Shrub,
+51,68,7083,Flower,
+223,18,3055,Tree,Dead
+232,41,1276,Grass,Healthy
+44,71,7040,Shrub,Wilted
+173,150,4765,Flower,Dead
+18,196,,Tree,Healthy
+191,74,2144,Shrub,Thriving
+20,99,4825,Flower,Healthy
+276,161,6550,Herb,Needs Water
+284,,6302,Herb,Needs Water
+299,192,8460,Succulent,Needs Water
+82,185,2082,,Wilted
+145,61,2277,Tree,Dead
+205,154,1408,,Needs Water
+77,39,8145,Flower,Healthy
+286,23,5501,Herb,Healthy
+72,147,,Shrub,Dead
+57,8,7744,Grass,Dead
+,139,3252,Shrub,Healthy
+94,193,8234,,Thriving
+291,181,1684,Flower,Dead
+66,79,,Flower,Thriving
+,174,9096,Shrub,Healthy
+,172,3374,Tree,Healthy
+45,138,4019,Herb,Needs Water
+173,31,9158,,Dead
+252,,,,Wilted
+198,25,3015,Tree,Healthy
+174,165,6894,Flower,Needs Water
+63,190,4916,Shrub,Thriving
+21,twennty,5356,Grass,Thriving
+219,179,4706,Herb,Thriving
+tall,42,7585,Succulent,Thriving
+185,2,,,Healthy
+76,37,4601,Succulent,Wilted
+146,72,3917,Succulent,Needs Water
+,191,2344,Succulent,Healthy
+262,108,2323,Flower,Dead
